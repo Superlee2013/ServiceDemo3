@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceDemo3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="howToDo">
+        (1)Click the button,and the pan will rotate \n
+        (2)return back,and pull down the navigation,to
+        control the music \n
+    </string>
+
+</resources>
